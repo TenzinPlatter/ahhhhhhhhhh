@@ -1,4 +1,5 @@
 def main():
-    print("Hello Earth!")
+    pass
+
 
 main()
